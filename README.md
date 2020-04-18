@@ -1,4 +1,4 @@
-# # Holberton School Zero Day
+# Holberton School Zero Day
 
 ## Introduction 
 This repository contains all the project tasks of Holberton School Zero Day.
