@@ -1,4 +1,4 @@
-# 0x00. C - Hello, World
+# 0x01. Emacs
 ## Resources :books:
 
 * [A Guided Tour of Emacs](https://intranet.hbtn.io/rltoken/i0rSCxE0TwjO7ns-SS2m8A)
